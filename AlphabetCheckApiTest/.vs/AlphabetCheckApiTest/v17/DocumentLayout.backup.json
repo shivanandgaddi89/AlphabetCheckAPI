@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckApiTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D254A4B3-6FFD-4CBB-80DE-816FFFF5BD88}|..\\AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\controllers\\alphabetcheckapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622410B-0135-4D2D-88C6-51AD37162875}|AlphabetCheckApiTest\\AlphabetCheckApiTest.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapitest\\alphabetcheckapitest\\alphabetcheckcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622410B-0135-4D2D-88C6-51AD37162875}|AlphabetCheckApiTest\\AlphabetCheckApiTest.csproj|solutionrelative:alphabetcheckapitest\\alphabetcheckcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlphabetCheckAPIController.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "RelativeDocumentMoniker": "..\\AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "RelativeToolTip": "..\\AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:51:22.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlphabetCheckControllerTests.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckApiTest\\AlphabetCheckApiTest\\AlphabetCheckControllerTests.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckApiTest\\AlphabetCheckControllerTests.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckApiTest\\AlphabetCheckApiTest\\AlphabetCheckControllerTests.cs",
+              "RelativeToolTip": "AlphabetCheckApiTest\\AlphabetCheckControllerTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:45:56.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

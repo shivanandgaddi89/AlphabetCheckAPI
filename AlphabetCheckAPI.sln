@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetCheckAPI", "AlphabetCheckAPI\AlphabetCheckAPI.csproj", "{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D577153F-5066-455C-83AE-A1BBB1A7AACB}
+	EndGlobalSection
+EndGlobal

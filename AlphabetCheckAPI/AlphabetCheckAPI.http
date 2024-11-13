@@ -1,0 +1,6 @@
+@AlphabetCheckAPI_HostAddress = http://localhost:5223
+
+GET {{AlphabetCheckAPI_HostAddress}}/CheckIfContainsAllAlphabets/
+Accept: application/json
+
+###

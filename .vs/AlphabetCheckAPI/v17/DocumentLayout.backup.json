@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\controllers\\alphabetcheckapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\controllers\\alphabetcheckapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\module\\alphabetcheckcompute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\module\\alphabetcheckcompute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\design\\ialphabetschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\design\\ialphabetschecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\alphabetcheckapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\alphabetcheckapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\prop\\alphabetcheckrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\prop\\alphabetcheckrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|d:\\c drive data\\shiva\\downloads\\alphabetcheckapi\\alphabetcheckapi\\prop\\alphabetcheckresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6C28B6-48D7-4219-A6BA-3F731715A7FE}|AlphabetCheckAPI\\AlphabetCheckAPI.csproj|solutionrelative:alphabetcheckapi\\prop\\alphabetcheckresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlphabetsChecker.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Design\\IAlphabetsChecker.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Design\\IAlphabetsChecker.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Design\\IAlphabetsChecker.cs",
+              "RelativeToolTip": "AlphabetCheckAPI\\Design\\IAlphabetsChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:19:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AlphabetCheckAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T04:10:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\appsettings.json",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\appsettings.json",
+              "RelativeToolTip": "AlphabetCheckAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T04:04:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlphabetCheckAPIController.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "RelativeToolTip": "AlphabetCheckAPI\\Controllers\\AlphabetCheckAPIController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:53:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Program.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Program.cs",
+              "RelativeToolTip": "AlphabetCheckAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:03:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlphabetCheckCompute.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Module\\AlphabetCheckCompute.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Module\\AlphabetCheckCompute.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Module\\AlphabetCheckCompute.cs",
+              "RelativeToolTip": "AlphabetCheckAPI\\Module\\AlphabetCheckCompute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:02:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlphabetCheckAPI.http",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\AlphabetCheckAPI.http",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\AlphabetCheckAPI.http",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\AlphabetCheckAPI.http",
+              "RelativeToolTip": "AlphabetCheckAPI\\AlphabetCheckAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-13T04:09:36.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlphabetCheckRequest.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Prop\\AlphabetCheckRequest.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Prop\\AlphabetCheckRequest.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Prop\\AlphabetCheckRequest.cs",
+              "RelativeToolTip": "AlphabetCheckAPI\\Prop\\AlphabetCheckRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:55:51.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlphabetCheckResponse.cs",
+              "DocumentMoniker": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Prop\\AlphabetCheckResponse.cs",
+              "RelativeDocumentMoniker": "AlphabetCheckAPI\\Prop\\AlphabetCheckResponse.cs",
+              "ToolTip": "D:\\c drive data\\shiva\\Downloads\\AlphabetCheckAPI\\AlphabetCheckAPI\\Prop\\AlphabetCheckResponse.cs",
+              "RelativeToolTip": "AlphabetCheckAPI\\Prop\\AlphabetCheckResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:57:33.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

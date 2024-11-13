@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AlphabetCheckAPI.Controllers.AlphabetCheckAPIController",
+    "Method": "CheckIfContainsAllAlphabets",
+    "RelativePath": "AlphabetCheckAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AlphabetCheckAPI.Prop.AlphabetCheckRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
